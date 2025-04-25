@@ -75,18 +75,8 @@ import { FaReact,FaSun,FaMoon, FaNodeJs, FaHtml5, FaCss3Alt, FaJs, FaGit, FaGith
 </button>
 </nav>
 
-
-
       {/* Home Section */}
-     
-
-     
-
-    
-
-      
-
-      <section id="home" className="relative py-20 bg-black text-white dark:bg-white dark:text-black">
+       <section id="home" className="relative py-20 bg-black text-white dark:bg-white dark:text-black">
   {/* Content */}
   <div className="relative z-10 flex flex-col items-center justify-center h-full px-4 text-center text-base md:text-lg text-gray-300 dark:text-gray-800 space-y-4 animate__animated animate__fadeInUp">
 
@@ -122,7 +112,7 @@ import { FaReact,FaSun,FaMoon, FaNodeJs, FaHtml5, FaCss3Alt, FaJs, FaGit, FaGith
 
 
 
-
+ {/* About section */}
 
 <section id="about" className="py-20 bg-black text-white dark:bg-white dark:text-black">
   <div className="max-w-7xl mx-auto px-6 text-center">
@@ -240,7 +230,7 @@ import { FaReact,FaSun,FaMoon, FaNodeJs, FaHtml5, FaCss3Alt, FaJs, FaGit, FaGith
 </section>
 
 
-
+ {/*Projects Section */}
 <section id="projects" className="py-20 bg-black text-white dark:bg-white dark:text-black">
   <div className="max-w-7xl mx-auto px-6">
     <div className="text-center mb-12">
