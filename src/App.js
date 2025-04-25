@@ -263,9 +263,9 @@ import { FaReact,FaSun,FaMoon, FaNodeJs, FaHtml5, FaCss3Alt, FaJs, FaGit, FaGith
         {
           name: "Portfolio",
           img: "/images/portfolio.png",
-          skills: "React, Node.js, Tailwind CSS, PostgreSQL",
-          github: "https://github.com/yourusername/skillforge",
-          live: "https://skillforge.live",
+          skills: "React,Tailwind CSS,",
+          github: "https://github.com/Nidhi010805/Portfolio",
+          live: "https://my-portfolio--jet-seven.vercel.app/",
         },
         {
           name: "N.A.P.S",
