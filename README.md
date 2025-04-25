@@ -8,7 +8,6 @@ This single-page application includes all core sections like:
 - 🛠️ Projects  
 - 📬 Contact
 
-All content is written inside `App.js`, with no routing or backend.
 
 ---
 
@@ -17,6 +16,15 @@ All content is written inside `App.js`, with no routing or backend.
 - React.js (via Create React App)
 - HTML5 & CSS3 / Tailwind CSS (optional)
 - No backend, frontend-only project
+
+---
+
+## 📌 Features
+
+- Clean single-page layout
+- All sections: About Me, Skills, Projects, Contact
+- Fully responsive across devices
+- Easy to customize and extend
 
 ---
 
@@ -29,3 +37,8 @@ To run the project locally, follow these steps:
 git clone https://github.com/Nidhi010805/Portfolio.git
 cd portfolio
 
+### 2: Install Dependencies
+npm install
+
+###Step 3: Start the Development Server
+npm start
